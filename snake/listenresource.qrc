@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/listen">
+        <file>img/5611.wav</file>
+        <file>img/die.wav</file>
+    </qresource>
+</RCC>
